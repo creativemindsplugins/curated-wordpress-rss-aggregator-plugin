@@ -7,7 +7,7 @@
 
 ## Introduction
 
-[Product Page](https://www.cminds.com/wordpress-plugins-library/curated-wordpress-rss-aggregator-plugin-by-creativeminds/) | [Video](https://vimeo.com/176107663)  | [Demo](https://www.listwp.com/curated-rss-aggregator-showing-feeds-about-wordpress-plugins/) | [User Guide](https://www.cminds.com/wordpress-plugins-knowledge-base-and-documentation/?hscat=882-curated-rss-aggregator-cmcra) | [Additional CM Plugins](https://www.cminds.com/wordpress-plugins-library)
+[Product Page](https://www.cminds.com/wordpress-plugins-library/curated-wordpress-rss-aggregator-plugin-by-creativeminds/) | [Video](https://vimeo.com/176107663)  | [Demo](https://www.listwp.com/curated-rss-aggregator-showing-feeds-about-wordpress-plugins/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/882-rss-aggregator-cmcra)
 
 **Boost your WordPress experience with the definitive plugin designed for smooth importation, amalgamation, and exhibition of curated RSS and Atom feed snippets.**
 
