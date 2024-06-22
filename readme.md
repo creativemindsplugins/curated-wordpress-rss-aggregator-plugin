@@ -3,7 +3,7 @@
 * Name: Curated RSS Aggregator Plugin
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.0.2
+* Tested up to WordPress version: 6.5.4
 
 ## Introduction
 
